@@ -1,1 +1,1 @@
-# Solitaire_RunGame
+# mahjongsolitaire
